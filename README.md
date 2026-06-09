@@ -8,8 +8,6 @@ Unlike an always-on git previewer, this **defaults to off** and delegates to Yaz
 built-in `code` previewer, so your normal previews are completely unchanged until
 you ask for the diff.
 
-![demo](demo.gif)
-
 ## Requirements
 
 - Yazi **≥ 25.4** (uses the `[mgr]` config section and `ya.preview_widget`).
