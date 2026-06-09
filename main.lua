@@ -1,4 +1,5 @@
 --- @sync entry
+--- @since 25.4.0
 -- git-diff.yazi — toggle the preview pane between normal file preview and
 -- the hovered file's uncommitted `git diff`. Press the bound key to flip.
 --
